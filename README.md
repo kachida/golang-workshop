@@ -60,6 +60,6 @@ To get started with these exercises, clone this repository to your local machine
 
 ```
 bash
-git clone https://github.com/your-username/go-hands-on-practices.git
+git clone https://github.com/your-username/golang-workshop.git
 cd go-hands-on-practices
 ```
