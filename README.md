@@ -1,8 +1,5 @@
 # golang-workshop
 
-This repository contains a collection of Go code examples
-
-Contents
 This repository includes go code examples for the following topics:
 
 - Hello World - Your first Go program.
